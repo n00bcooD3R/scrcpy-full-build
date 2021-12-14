@@ -9,8 +9,7 @@ sudo apt install gcc git pkg-config meson ninja-build libsdl2-dev \
                  libavcodec-dev libavdevice-dev libavformat-dev libavutil-dev \
                  libusb-1.0-0-dev
 
-# server build dependencies
-sudo apt install openjdk-11-jdk
+
 ```
 
 #### STEP2
